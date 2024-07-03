@@ -25,3 +25,4 @@ able to tie the ideas presented as part of the project to real-world scenarios.
 NoSQL databases also have the advantage of being easily scalable, just as SQL databases do. In 
 contrast, NoSQL databases scale horizontally, meaning that they can run on more servers. As a 
 result, NoSQL is better suited to applications with a large and more powerful database.
+.gitattribute
